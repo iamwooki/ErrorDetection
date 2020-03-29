@@ -1,1 +1,3 @@
-# Packet Error Dectection using to CRC/Check Sum
+# Packet Error Dectection
+- CRC
+- CheckSum
